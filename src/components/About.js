@@ -1,11 +1,8 @@
-
-
+// src/components/About.js
 function About() {
   return (
     <main>
-      <h1>
-        This is my about component!
-      </h1>
+      <h1>This is my about component!</h1>
     </main>
   );
 }

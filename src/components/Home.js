@@ -1,5 +1,4 @@
-
-
+// src/components/Home.js
 function Home() {
   return (
     <main>
